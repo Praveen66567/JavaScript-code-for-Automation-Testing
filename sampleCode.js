@@ -1,4 +1,4 @@
-let a = 10;
-let b = 2;
+let a = 1000;
+let b = 200;
 
 console.log(a - b);
